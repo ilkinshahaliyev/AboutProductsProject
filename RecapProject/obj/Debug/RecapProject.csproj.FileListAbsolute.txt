@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\RecapProject.exe.config
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\RecapProject.exe
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\RecapProject.pdb
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.Form1.resources
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.Properties.Resources.resources
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.csproj.GenerateResource.cache
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.exe
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.pdb
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.dll
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.xml
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.SqlServer.xml
