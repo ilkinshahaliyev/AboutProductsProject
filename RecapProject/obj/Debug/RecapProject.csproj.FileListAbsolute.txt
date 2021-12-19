@@ -12,3 +12,5 @@ C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.
 C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.xml
 C:\Users\ilkin\source\repos\RecapProject\RecapProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilkin\source\repos\RecapProject\RecapProject\obj\Debug\RecapProject.csproj.CopyComplete
